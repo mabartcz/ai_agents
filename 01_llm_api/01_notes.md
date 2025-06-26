@@ -1,6 +1,6 @@
 What is LLM and LLM API
 
-- LM Studio (lokalni studio)
+- LM Studio (local)
 - OpenWeb UI
 - https://you.com/ Enterprise data
 - https://platform.openai.com/docs/guides/responses-vs-chat-completions#text-generation-example
@@ -8,4 +8,5 @@ What is LLM and LLM API
 
 
 TODO:
-- Mrknout na začatek zaznamu
+- Watch start and end of video
+- Homework
