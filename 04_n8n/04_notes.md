@@ -1,3 +1,0 @@
-N8N
-
-runpod
